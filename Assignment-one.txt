@@ -1,1 +1,3 @@
 This is a new file as an assignment
+
+We created a branch called assignment-one and added a new line of text.
